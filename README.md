@@ -60,7 +60,9 @@ Avoid hitting the walls, yourself, or the other player’s snake.
    cd snake-game
    
 2. **Install dependencies**
-    pip install pygame
+   ```bash
+   pip install pygame
 
 ## Run the game
+   ```bash
   python snake_game.py
