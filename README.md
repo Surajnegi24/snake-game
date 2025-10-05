@@ -1,3 +1,6 @@
+## Developer
+   Suraj singh negi
+
 # 🐍 Python Snake Game
 
 A modern take on the **classic Snake Game**, built using **Python** and **Pygame**.  
@@ -66,6 +69,3 @@ Avoid hitting the walls, yourself, or the other player’s snake.
 ## Run the game
    ```bash
   python snake_game.py
-
-## Developer
-   Suraj singh negi
