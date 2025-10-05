@@ -66,3 +66,6 @@ Avoid hitting the walls, yourself, or the other player’s snake.
 ## Run the game
    ```bash
   python snake_game.py
+
+## Developer
+   Suraj singh negi
